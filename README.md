@@ -2,8 +2,8 @@
 
 The old official web proxy of TitaniumNetwork.
 
-Succeeded by [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet).
-Successor to [Alloy](https://github.com/titaniumnetwork-dev/alloy).
+Succeeded by [Ultraviolet](https://github.com/Titanium-Network/Ultraviolet).
+Successor to [Alloy](https://github.com/Titanium-Network/alloy).
 
 ## Table of Contents
 - [Corrosion](#corrosion)
@@ -220,13 +220,13 @@ Your site should be working now. If you want to add a custom frontend to make it
 
 ## Frontend Examples
 
-[Holy Unblocker](https://github.com/titaniumnetwork-dev/Holy-Unblocker)
+[Holy Unblocker](https://github.com/Titanium-Network/Holy-Unblocker-old)
 
-[Incognito](https://github.com/titaniumnetwork-dev/Incognito)
+[Incognito](https://github.com/Titanium-Network/Incognito-old)
 
-[Vanadium](https://github.com/titaniumnetwork-dev/Vanadium)
+[Vanadium](https://github.com/Titanium-Network/Vanadium)
 
-[Reborn](https://github.com/titaniumnetwork-dev/Reborn)
+[Reborn](https://github.com/Titanium-Network/Reborn)
 
 # Advanced Configuration
 ```javascript
@@ -310,7 +310,7 @@ const proxy = new Corrosion({
 
 # Contributing
 
-[API Documentation.](https://github.com/titaniumnetwork-dev/Corrosion/wiki/API)
+[API Documentation.](https://github.com/Titanium-Network/Corrosion/wiki/API)
 
 See something lacking in Corrosion that you can fix? Fork the repo, make some changes, and send in a pull request.
 
